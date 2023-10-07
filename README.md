@@ -13,8 +13,4 @@ I have good experience 🎓 with the Adobe package, especially Photoshop 📸, I
 I’m currently learning 🌱 JavaScript, Java, Python, Dart and C++.
 
 📫 How to reach me: marcio.otaavio@gmail.com
-
-
-                     https://www.linkedin.com/in/marcio-otavio/
-
 -->
