@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**MarcioOtavio/MarcioOtavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Márcio😊, 
 
-Here are some ideas to get you started:
+I have a great passion for art🎨and technology💻. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm studying Computer Science 🧑‍💻 at Escola Superior Dom Helder Câmara. 
+I have a degree 👨‍🎓 in Art Education from Escola Guignard, UEMG; 
+Master 🥷 in Drawing and Printing Techniques, from the Faculty of Fine Arts of the University of Porto, in Portugal
+and technician 🎖 in Visual Communication, from Senai Cecoteg. 
+I have dedicated myself to studying 🔭 UI/UX and front-end development. 
+I have good experience 🎓 with the Adobe package, especially Photoshop 📸, Illustrator 🪄 and After Effects 🎇. 
+🌱 I’m currently learning JavaScript, Java, Python, Dart and C++.
+
+📫 How to reach me: marcio.otaavio@gmail.com
+
 -->
