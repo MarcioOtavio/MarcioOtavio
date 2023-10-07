@@ -10,7 +10,7 @@ Master 🥷 in Drawing and Printing Techniques, from the Faculty of Fine Arts of
 and technician 🎖 in Visual Communication, from Senai Cecoteg. 
 I have dedicated myself to studying 🔭 UI/UX and front-end development. 
 I have good experience 🎓 with the Adobe package, especially Photoshop 📸, Illustrator 🪄 and After Effects 🎇. 
-🌱 I’m currently learning JavaScript, Java, Python, Dart and C++.
+I’m currently learning 🌱 JavaScript, Java, Python, Dart and C++.
 
 📫 How to reach me: marcio.otaavio@gmail.com
 
