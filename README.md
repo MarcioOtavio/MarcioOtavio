@@ -16,7 +16,7 @@ I’m currently learning 🌱 JavaScript, Java, Python, Dart and C++.
 -->
 <div align="center">
 
-  ![Snake animation](https://github.com/MarcioOtavio/MarcioOtavio/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
