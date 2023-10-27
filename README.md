@@ -14,3 +14,4 @@ I’m currently learning 🌱 JavaScript, Java, Python, Dart and C++.
 
 📫 How to reach me: marcio.otaavio@gmail.com
 -->
+![snake gif](https://github.com/MarcioOtavio/MarcioOtavio/blob/output/github-contribution-grid-snake.svg)
