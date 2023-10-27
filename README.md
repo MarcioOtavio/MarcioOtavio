@@ -2,6 +2,8 @@
 
 My name is Márcio😊, 
 
+<img align="right" width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
+
 I have a great passion for art🎨and technology💻. 
 
 I'm studying Computer Science 🧑‍💻 at Escola Superior Dom Helder Câmara. 
